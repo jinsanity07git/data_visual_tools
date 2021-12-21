@@ -18,8 +18,10 @@
 
 > [official web](https://d3js.org/)\
 > [fun case](http://visjs.org/timeline_examples.html)
+* [data-viz packages](http://chartmaker.visualisingdata.com/) :   a quick/easy reference to which data-viz packages support which kinds of viz'es
+** [Resource](https://www.visualisingdata.com/resources/)
 
-##  python library
+##  Python library
 
 1. Plotly Python Library
 
@@ -28,7 +30,7 @@
 > [official web](https://plot.ly/feed/#/)\
 > [fun case](https://plot.ly/python/gapminder-example/)
 
-##  impressive cases
+##  Impressive cases
 
 > [Visualizing MBTA Data](http://mbtaviz.github.io/)\
 > [Tinker With a Neural Network in Your Browser.](http://playground.tensorflow.org)\
