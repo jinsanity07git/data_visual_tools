@@ -36,3 +36,5 @@
 > [Tinker With a Neural Network in Your Browser.](http://playground.tensorflow.org)\
 > [algorithms tour__stitchfix](https://algorithms-tour.stitchfix.com/#data-platform)\
 > [Build A Scroller](http://vallandingham.me/scroller.html)
+> * [tdm23 model structure](https://ctpsstaff.github.io/tdm23_users_guide/1.0/pages/_assets/gisdk_assets/sankey_chart.html)
+> * [tdm23_summary_report](https://ctps.org/pub/tdm23_sc/tdm23.1.0/Base_2050-Plan.html)
